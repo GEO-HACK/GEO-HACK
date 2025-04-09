@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geo-hack" alt="geo-hack" /></a> </p>
 
-- 🔭 I’m currently working on **Agricultural based solutions**
+- 🔭 I’m currently working on **Web based medical solutions**
 
-- 🌱 I’m currently learning **Django and react**
+- 🌱 I’m currently learning **Nextjs and Typescript**
 
-- 👯 I’m looking to collaborate on **Any Django/python project**
+- 👯 I’m looking to collaborate on **Any Django/python , react/next project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
