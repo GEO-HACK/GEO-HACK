@@ -67,6 +67,9 @@
 **Let’s Connect**
 
 <p>
+    <a href="[https://linkedin.com/in/geoffrey-kirumba](https://www.linkedin.com/in/geoffrey-kirumba-2a8690272/)" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
   <a href="https://instagram.com/he_is_geo" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
