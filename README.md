@@ -8,7 +8,7 @@
 ---
 
 **About Me**
-- 🔭 Currently building **Web-based Agriculture AI powered solutions**
+- 🔭 Currently building **Web-based AI powered  Agriculture solutions**
 - 🌱 Deepening my skills in **Next.js, TypeScript, and cloud integration (Azure)**
 - 🤝 Open to collaborating on **Django, Python, React, and Next.js** projects
 - 🧠 Passionate about clean architecture, scalable systems, and developer community growth
