@@ -27,6 +27,7 @@
 | 💅 **Salon Booking Platform** | Full-stack luxury salon system with an AI conversational booking agent, WhatsApp confirmations, and Paystack payments | Next.js 14, Express.js, MongoDB, Gemini/Grok API |
 | 🎟️ **AWN Ticketing Platform** | Event RSVP and ticketing system with M-Pesa payments and member ID validation for Asian Women Network Kenya | Next.js 14, Firebase, M-Pesa Daraja API |
 | 🌐 **Asian Women Network Kenya** | Official organisation website — [asianwomenkenya.org](https://www.asianwomenkenya.org) | Next.js, GSAP, Tailwind CSS |
+| 📄 **FlipAfrica** | African-built PDF-to-flipbook platform with M-Pesa/Pesapal payments, WhatsApp sharing, and AI summarization | Next.js 14, FastAPI, MongoDB, Cloudinary |
 
 ---
 
