@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Geoffrey Kirumba</h1>
-<h3 align="center">💻 Full-Stack Software Engineer | 🌍 Based in Kenya | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Full-Stack Software Engineer | 🌍 Based in Nairobi, Kenya | 🎓 Final-Year CS Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geo-hack&label=Profile%20views&color=0e75b6&style=flat" alt="geo-hack" />
@@ -7,80 +7,84 @@
 
 ---
 
-**About Me**
-- 🔭 Currently building **Web-based AI powered  Agriculture solutions**
-- 🌱 Deepening my skills in **Next.js, TypeScript, and cloud integration (Azure)**
-- 🤝 Open to collaborating on **Django, Python, React, and Next.js** projects
-- 🧠 Passionate about clean architecture, scalable systems, and developer community growth
+### 🚀 About Me
+
+- 🔭 Currently building **production systems for real clients** — an AI-powered salon booking platform, an event ticketing system for a women's professional network, and a hybrid network intrusion detection system (capstone)
+- 🤖 Building **AI agents** — conversational booking agents using LLM tool-calling (Gemini, Grok) backed by real-time database lookups
+- 🛡️ Researching **hybrid intrusion detection** — combining signature-based detection with ML ensembles (Random Forest, XGBoost, Isolation Forest) for my final year project, **Watchtower**
+- 🌱 Deepening my skills in **Next.js 14, TypeScript, FastAPI, and cloud deployment**
+- 🤝 Open to **internships and apprenticeships** in software engineering, frontend development, and ML
+- 👥 Founder of **Frontend Lab** — a developer learning community covering frontend system design, ML, and community challenges
+- 🧠 Passionate about clean architecture, scalable systems, and shipping real things — not just tutorials
 
 ---
 
- **Tech Stack**
+### 🛠️ Featured Work
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛡️ **Watchtower** | Hybrid Network Intrusion Detection System — signature engine + 3-model ML ensemble fused into a unified verdict, live dashboard, real-time alerting | Python, FastAPI, scikit-learn, XGBoost |
+| 💅 **Salon Booking Platform** | Full-stack luxury salon system with an AI conversational booking agent, WhatsApp confirmations, and Paystack payments | Next.js 14, Express.js, MongoDB, Gemini/Grok API |
+| 🎟️ **AWN Ticketing Platform** | Event RSVP and ticketing system with M-Pesa payments and member ID validation for Asian Women Network Kenya | Next.js 14, Firebase, M-Pesa Daraja API |
+| 🌐 **Asian Women Network Kenya** | Official organisation website — [asianwomenkenya.org](https://www.asianwomenkenya.org) | Next.js, GSAP, Tailwind CSS |
+
+---
+
+### 🧰 Tech Stack
 
 **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</p>
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)
 
 **Backend & Database**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) ![Nodejs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+**ML & AI**
+
+![scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg) ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
 
 **Tools & Platforms**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geo-hack&show_icons=true&theme=default" alt="geo-hack stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geo-hack" alt="geo-hack streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geo-hack&layout=compact&hide_progress=true" alt="geo-hack top languages" height="165"/>
 </p>
 
 ---
 
-**GitHub Stats**
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geo-hack&show_icons=true&theme=default" alt="geo-hack" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geo-hack&" alt="geo-hack" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geo-hack&layout=compact&langs_count=8&hide_progress=true" alt="geo-hack" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geo-hack&theme=flat&no-frame=true&row=1&column=6" alt="geo-hack trophies" />
 </p>
 
 ---
 
-🏆 **Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geo-hack&theme=flat" alt="geo-hack" />
-</p>
+### 🤝 Let's Connect
 
----
-
-**Let’s Connect**
-
-<p>
-    <a href="https://www.linkedin.com/in/geoffrey-kirumba-2a8690272/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/geoffrey-kirumba-2a8690272/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/he_is_geo" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/geo-hack" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="LeetCode" />
   </a>
 </p>
 
-<br/>
-
 ---
 
- _“Building impactful solutions, one commit at a time.”_
-
+<p align="center"><i>"Building impactful solutions, one commit at a time."</i></p>
